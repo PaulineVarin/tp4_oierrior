@@ -1,6 +1,5 @@
 package main;
-
-import elementsJeu.*;
+import jeuOie.JeuOie;
 
 public class mainJeu {
 

@@ -1,4 +1,4 @@
-package elementsJeu;
+package utils;
 
 public class Journal {
 

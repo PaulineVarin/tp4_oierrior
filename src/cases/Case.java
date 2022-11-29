@@ -1,4 +1,4 @@
-package elementsJeu;
+package cases;
 
 public class Case {
 

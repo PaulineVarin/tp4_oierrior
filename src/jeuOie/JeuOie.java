@@ -1,4 +1,4 @@
-package elementsJeu;
+package jeuOie;
 
 public class JeuOie {
 	private Oie[] oies; 
