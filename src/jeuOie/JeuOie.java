@@ -18,6 +18,7 @@ public class JeuOie {
 	}
 
 	public void jouer() {
+		System.out.println("Hello");
 	}
 	 
 }
