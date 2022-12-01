@@ -16,6 +16,7 @@ public class Oie {
 		this.plateau = plateau ; 
 		this.de = de ; 
 		this.journal = new Journal() ; 
+		this.casePlateau = this.plateau.donnerCase(1) ; 
 	}
 	
 	public Plateau getPlateau() {
@@ -37,6 +38,7 @@ public class Oie {
 	
 	public void ajouterMessage(String message) {
 		this.journal.ajouterMessage(message);
+		this.journal.afficherMessage();
 		
 	}
 	

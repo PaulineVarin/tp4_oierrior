@@ -6,7 +6,7 @@ public class Journal {
 	
 
 	public void ajouterMessage(String message) {
-		this.message = this.message+" "+message ; 
+		this.message = message ; 
 	}
 	
 	public void afficherMessage() {

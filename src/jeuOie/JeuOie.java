@@ -18,7 +18,9 @@ public class JeuOie {
 	}
 
 	public void jouer() {
-		System.out.println("Hello");
+		for (Oie oie : oies ) {
+			oie.action() ; 
+		}
 	}
 	 
 }
