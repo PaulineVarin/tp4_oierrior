@@ -43,7 +43,6 @@ public class Case {
 		oie.ajouterMessage("L'oie "+oie.getCouleur()+ " arrive sur la case "+this.getNum());
 		//Indique les actions à  effectuer lorsqu'on tombe sur la case d'arivé et on renvoie la case
 		return this ; 
-		//test token
 		
 		
 	}
